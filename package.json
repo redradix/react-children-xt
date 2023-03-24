@@ -1,0 +1,18 @@
+{
+  "name": "react-children-xt",
+  "version": "1.0.0",
+  "description": "Count and map over React children flattening fragments and not taking into account elements that won't be rendered such as `undefined` or `null`",
+  "keywords": [
+    "react",
+    "children",
+    "flatten",
+    "fragment",
+    "iterate",
+    "count"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/redradix/react-children-xt",
+  "homepage": "https://github.com/redradix/react-children-xt#readme",
+  "author": "Redradix <development@redradix.com>",
+  "license": "MIT"
+}

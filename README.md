@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Redradix - development@redradix.com
+
+SPDX-License-Identifier: MIT
+-->
+
 # react-children-xt
 
 > Count and map over React children flattening fragments and not taking into account elements that won't be rendered such as `undefined` or `null`

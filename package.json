@@ -1,6 +1,6 @@
 {
   "name": "react-children-xt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Count and map over React children flattening fragments and not taking into account elements that won't be rendered such as `undefined` or `null`",
   "keywords": [
     "react",
